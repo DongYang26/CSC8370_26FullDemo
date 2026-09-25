@@ -1,6 +1,6 @@
-# CSC8370_25FullDemo
+# CSC8370_26FullDemo
 
-⚡ Please show me that you can successfully run the [test.py](https://github.com/DongYang26/CSC8370_25FullDemo/blob/main/test.py) file in your environment.
+⚡ Please show me that you can successfully run the [test.py](https://github.com/DongYang26/CSC8370_26FullDemo/blob/main/test.py) file in your environment.
 
 
 
@@ -9,11 +9,11 @@
 
 * Download the code into your folder using git command in VSCode's terminal
 ```
-git clone git@github.com:DongYang26/CSC8370_25FullDemo.git
+git clone git@github.com:DongYang26/CSC8370_26FullDemo.git
 ```
 * We enter the code folder using 'cd' command (Important🌟🌟🌟)
 ```
-cd CSC8370_25FullDemo
+cd CSC8370_26FullDemo
 ```
 * Search you created python environments.
 ```
